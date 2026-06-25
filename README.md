@@ -6,7 +6,11 @@ An Android Kids Learning App Game  built with Kotlin, Jetpack Compose, and moder
 
 ## Features
 
-- Alphabets, Numbers, Shapes, Colors, and Story Books
+- Alphabets(Tracing, Balloon Popup,Alphabet Matching) 
+- Numbers(NumQuest, Tracing, Big vs Small, Counting Fun)
+- Shapes(Match up, Shape Fun, Magic Trace, Shape Hunt)
+- Colors(Color Match, Color Fun, Learn Color, Color Ballon Popup)
+- Story Books
 - Game progress tracking
 - Badges system
 - Parent/User notification
