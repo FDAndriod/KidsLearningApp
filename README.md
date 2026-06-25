@@ -17,6 +17,21 @@ An Android Kids Learning App Game  built with Kotlin, Jetpack Compose, and moder
 - Add Child functionality
 - 
 
+## Screenshots
+
+![SplashScreen](screenshots/splash.webp)
+![ProfileScreen](screenshots/profile.webp)
+![HomeScreen](screenshots/homescreen.webp)
+![BadgesScreen](screenshots/badgesscreen.webp)
+![ParentSettingsScreen](screenshots/parentscreen.webp)
+![AlphabetsGameScreen](screenshots/alphabetgames.webp)
+![ColorGames](screenshots/colorgames.webp)
+![NumberGames](screenshots/numbersgame.webp)
+![StoryReadScreen](screenshots/storyreadscreen.webp)
+![ReadStory](screenshots/readstory.webp)
+
+
+
 ## Tech Stack
 
 - **Language:** Kotlin
