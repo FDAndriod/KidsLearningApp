@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hometoptextcolor">#FB923C</color>
+    <color name="gamescarddotscolor">#FCDF93</color>
+    <color name="alphabottomcardcolor">#FDEBB7</color>
+
+    <!--badge_card color-->
+    <color name="great_job_alpha_badge_card_color">#F06293</color>
+    <color name="master_alpha_badge_card_color">#F06293</color>
+    <color name="count_champ_badge_card_color">#F8A423</color>
+    <color name="number_ninja_badge_card_color">#67419F</color>
+    <color name="color_master_badge_card_color">#1DB3DB</color>
+    <color name="color_rainbow_badge_card_color">#EAD534</color>
+    <color name="shape_hero_badge_card_color">#FD802D</color>
+    <color name="shape_champ_badge_card_color">#3177E1</color>
+
+
+
+
+</resources>
